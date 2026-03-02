@@ -13,10 +13,10 @@
 ---
 
 ## 👨‍💻 About Me
-
+-  I specialize in AWS,Kubernetes, Docker, Terraform and more 
 - 💻 Experienced in Java & Spring Boot backend development  
 - ⚛️ Building dynamic frontends using React  
-- ☁️ Designing AWS cloud infrastructure  
+- ☁️ Designing AWS cloud infrastructure
 - 🐳 Containerizing applications using Docker  
 - ☸️ Deploying microservices to Kubernetes (EKS)  
 - ⚙️ Infrastructure as Code using Terraform  
