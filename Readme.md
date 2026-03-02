@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fareed</h1>
+<h1 align="center">Hi 👋, I'm Janupasha shaik</h1>
 <h3 align="center">Full Stack Developer & DevOps Engineer | AWS | Kubernetes | Spring Boot</h3>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
