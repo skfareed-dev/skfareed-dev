@@ -77,5 +77,5 @@ Full Stack Development + DevOps Automation + Cloud Infrastructure
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Optional)
+- 💼 LinkedIn: 
+- 📧 Email: Janupashashaik94@gmail.com
