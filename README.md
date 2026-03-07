@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 -  I specialize in AWS,Kubernetes, Docker, Terraform and more 
 - 💻 Experienced in Java & Spring Boot backend development  
 - ⚛️ Building dynamic frontends using React  
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### 💻 Backend
 Java | Spring Boot | Microservices  
@@ -42,7 +42,7 @@ Linux | Git | Bash
 
 ---
 
-## 🏗️ Featured Project – End-to-End DevOps on AWS
+##  Featured Project – End-to-End DevOps on AWS
 
 - 🔹 Provisioned infrastructure using Terraform  
 - 🔹 Configured VPC, ALB, EC2, RDS, IAM  
@@ -55,7 +55,7 @@ Linux | Git | Bash
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skfareed-dev&show_icons=true&theme=radical" />
@@ -67,7 +67,7 @@ Linux | Git | Bash
 
 ---
 
-## 🎯 Career Focus
+##  Career Focus
 
 Building Production-Ready Systems by combining:
 
@@ -75,7 +75,7 @@ Building Production-Ready Systems by combining:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link here)  
-- 📧 Email: Janupashashaik94@gmail.com  
+- inkedIn: (Add your LinkedIn link here)  
+- Email: Janupashashaik94@gmail.com  
