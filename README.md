@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janupasha Shaik</h1>
-<h3 align="center">Full Stack Developer & DevOps Engineer | AWS | Kubernetes | Spring Boot</h3>
+<h3 align="center">Full Stack Developer & DevOps Engineer | AWS | Kubernetes | Spring Boot | React Js</h3>
 
 <p align="center">
   ☁️ Building Scalable Cloud-Native Applications <br>
