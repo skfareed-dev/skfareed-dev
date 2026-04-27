@@ -77,5 +77,4 @@ Building Production-Ready Systems by combining:
 
 ##  Connect With Me
 
-- inkedIn: (Add your LinkedIn link here)  
 - Email: Janupashashaik94@gmail.com  
