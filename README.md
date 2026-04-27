@@ -62,7 +62,7 @@ Linux | Git | Bash
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=skfareed-dev&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=StackDEVPilot&theme=radical" />
 </p>
 
 ---
